@@ -1,0 +1,9 @@
+.playboard {
+  height: 100%;
+  flex: 0 1 380px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+}
