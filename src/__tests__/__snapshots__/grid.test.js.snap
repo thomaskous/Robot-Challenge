@@ -1,0 +1,111 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Grid /> renders an 3x3 <Grid /> with a robot 1`] = `
+<div
+  class="grid"
+>
+  <div
+    class="cell"
+    data-testid="cell"
+    id="02"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="12"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="22"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="01"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="11"
+  >
+    <img
+      alt="robot"
+      class="robot N"
+      src="/robot.png"
+    />
+  </div>
+  <div
+    class="cell"
+    data-testid="cell"
+    id="21"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="00"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="10"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="20"
+  />
+</div>
+`;
+
+exports[`<Grid /> renders an 3x3 <Grid /> with no robot 1`] = `
+<div
+  class="grid"
+>
+  <div
+    class="cell"
+    data-testid="cell"
+    id="02"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="12"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="22"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="01"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="11"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="21"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="00"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="10"
+  />
+  <div
+    class="cell"
+    data-testid="cell"
+    id="20"
+  />
+</div>
+`;

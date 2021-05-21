@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> renders a disabled <Button /> 1`] = `
+<button
+  class="button input-group"
+  disabled=""
+>
+  Place
+</button>
+`;
+
+exports[`<Button /> renders an active <Button /> 1`] = `
+<button
+  class="button input-group"
+>
+  Place
+</button>
+`;

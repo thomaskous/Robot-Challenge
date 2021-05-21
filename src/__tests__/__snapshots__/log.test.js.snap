@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Log /> renders <Log /> with populated data 1`] = `
+<div
+  class="log box"
+>
+  <div
+    class="log-label"
+  >
+    Action Log
+  </div>
+  <div
+    class="log-panel"
+  >
+    <p
+      class="log-item"
+      data-testid="0"
+    >
+      placing robot on cell X: 0, Y: 0, NORTH
+    </p>
+    <p
+      class="log-item"
+      data-testid="1"
+    >
+      robot rotated right
+    </p>
+  </div>
+</div>
+`;
